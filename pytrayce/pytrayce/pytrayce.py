@@ -3,6 +3,8 @@ import numpy as np
 import math
 import time
 
+#test
+
 def unitVec(vec):
 	return vec / np.linalg.norm(vec)
 
